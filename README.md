@@ -1,6 +1,9 @@
 # Image-Hunter-JS
  📦 NODE.JS - Simples Page-Scrapper que captura links de imagens em um site.
 
+
+##### Versão em Python: https://github.com/BrunoS3D/Image-Hunter
+
 ### Instalação
 1. Você precisará ter instalado o Node.js na sua máquina: https://nodejs.org/
 
