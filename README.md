@@ -6,6 +6,7 @@
 
 ### Instalação
 1. Você precisará ter instalado o Node.js na sua máquina: https://nodejs.org/
+2. Execute `npm i` para instalar as dependencias do projeto
 
 ### Rodando o script
 Basta realizar os passos a seguir:
